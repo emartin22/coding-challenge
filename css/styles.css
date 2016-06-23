@@ -2,26 +2,44 @@ body{
 	backgroundcolor: aquamarine;
 
 	}
+	#div34{
+		width:1400px;
+		height:360px;
+		background-color: aquamarine;
+		margin: -10px;
+	}
 
-	div.shape{
+	/*div.shape{
 		background-color: white;
 		width: 100px;
 		height: 100px;
-		margin:10px;
-	}
+		margin:10px;*/
+	/*}*/
 
 	h1 {
-		color: blue;
+		color: white;
+	}
+	
+	h2 {
+		color: white;
 	}
 
 	div#circle{
 		border-radius: 100%
 	}
 
-	#div34{
-		width:1400px;
-		height:300px;
-		background-color: aquamarine;
-	}
-
+	
+	/*div.shape{
+		background-color: aquamarine
+		width: 1400px;
+		height: 225px;
 		
+		border-radius: 100px;
+	}*/
+
+	div.shape{
+	background-color: green;
+		width: 100px;
+		height: 100px;
+		margin:	10px;
+	]
