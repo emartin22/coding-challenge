@@ -8,13 +8,9 @@ body{
 		background-color: aquamarine;
 		margin: -10px;
 	}
-
-	/*div.shape{
-		background-color: white;
-		width: 100px;
-		height: 100px;
-		margin:10px;*/
-	/*}*/
+		#myTable {
+		    transform-rotate: 270deg;
+		}
 
 	h1 {
 		color: white;
@@ -28,18 +24,16 @@ body{
 		border-radius: 100%
 	}
 
-	
-	/*div.shape{
-		background-color: aquamarine
-		width: 1400px;
-		height: 225px;
-		
-		border-radius: 100px;
-	}*/
-
 	div.shape{
 	background-color: green;
 		width: 100px;
 		height: 100px;
-		margin:	10px;
-	]
+		margin:	30px;
+	}
+	div#circle2{
+		border-radius: 100%
+	}
+	/*div#circle3{
+		border-radius: 100%
+	}*/
+
